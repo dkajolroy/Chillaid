@@ -1,0 +1,117 @@
+/* ************ Typograpgy *********** */
+
+@media all and (max-width : 991px){
+    .adds .top .item.col-md-3{
+        width: 40%;
+        margin: 0 auto;
+    }
+    .adds .top {
+        bottom: -75%;
+    }
+    .cycle {
+        margin: 491px 0 50px;
+    }
+    .pr-charts .pr-chart-ctrl {
+        width: 45%;
+    }
+}
+
+@media all and (max-width : 776px){
+    .banar .top .container{
+        width: 95%;
+    }
+    .banar .top .left{
+        float: none;
+        text-align: center;
+    }
+    .banar .top .right {
+        float: none;
+        text-align: center;
+    }
+    ol, ul{
+        padding: 0;
+    }
+    .adds .top .box {
+        width: 100%;
+    }
+    .adds .top .item.col-md-3 {
+        width: 45%;
+        margin: 0 auto;
+    }
+    .adds .top {
+        bottom: -80%;
+    }
+}
+
+@media all and (max-width : 539px){
+    .adds .top {
+        bottom: -90%;
+    }
+    .adds .top .box p {
+        font-size: 11px;
+        margin: 0 0 10px;
+        padding: 0 0 20px;
+    }
+    .adds .top .box i {
+        padding: 12px;
+        font-size: 16px;
+        margin: 8px 0;
+    }
+    h6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .banar .bottom .text p {
+        width: 80%;
+    }
+    .adds .top .item.col-md-3 {
+        width: 37%;
+    }
+    .adds .top {
+        bottom: -70%;
+    }
+    .cycle {
+        margin: 354px 0 50px;
+    }
+    .pr-charts .pr-chart-ctrl {
+        width: 100%;
+        margin: auto;
+    }
+    .skills .title, .portfolio .title, .comment .title, .contact .title {
+        max-width: 100%;
+    }
+    .team-mem blockquote {
+        font-size: 9px;
+    }
+    footer .bottom p {
+        display: block;
+        text-align: center;
+        font-size: 12px;
+    }
+    footer .bottom .right {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    footer .bottom a {
+        font-size: 11px;
+    }
+    
+    
+}
+
+
+
+@media all and (max-width : 444px){
+    .banar .bottom .text h1 {
+        margin-top: 96px;
+        font-size: 34px;
+    }
+    .adds .top .item.col-md-3 {
+        width: 50%;
+    }
+    .contact .content li a {
+        display: block;
+        text-align: center;
+    }
+}
